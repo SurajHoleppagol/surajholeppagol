@@ -32,7 +32,7 @@ This GitHub is my learning playground and portfolio — a place where I document
 ## 🌱 Current Focus
 - Daily SQL practice with PostgreSQL  
 - Building a **resume project** for GitHub portfolio  
-- Strengthening **Excel dashboards & automation**  
+- Strengthening **Excel & Power BI dashboards & automation**  
 - Practicing **Python for data analysis**  
 
 ## 🌐 Connect with Me
